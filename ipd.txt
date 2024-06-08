@@ -2,4 +2,8 @@
 "les etudiants sont des genies"
 "nous sommes en cours de cicd"
 "bonjour je m'appele MOMAR GAYE etudiant en GENIE logiciel a l'ipd"
+<<<<<<< HEAD
 "ajout d'un nouveau contenue depuis la branche GL"
+=======
+"ajout depuis la branche AGR "
+>>>>>>> AGR
